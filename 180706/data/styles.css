@@ -52,6 +52,10 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   font-family:'PingFangTC-Thin', 'PingFang TC Thin', 'PingFang TC';
   font-weight:200;
@@ -98,7 +102,7 @@
 .box_3 {
 }
 .refs-design-material {
-  font-family:'NotoSansCJKsc-Regular', 'Noto Sans CJK SC';
+  font-family:'Noto Sans CJK SC';
   font-weight:400;
   font-style:normal;
 }
