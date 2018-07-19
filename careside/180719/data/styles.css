@@ -1,0 +1,255 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.shape {
+}
+.image {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  font-family:'PingFangTC-Thin', 'PingFang TC Thin', 'PingFang TC';
+  font-weight:200;
+  font-style:normal;
+  text-align:left;
+  line-height:20px;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.horizontal_line {
+}
+.ellipse {
+}
+.refs-chart-data {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+.flow_shape {
+}
+.box_1 {
+}
+.paragraph1 {
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.box_2 {
+}
+.box_3 {
+}
+.refs-design-material {
+  font-family:'Noto Sans CJK SC';
+  font-weight:400;
+  font-style:normal;
+}
+.shape1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.image1 {
+  color:#000000;
+}
+.horizontal_line1 {
+}
+.placeholder {
+}
+.line {
+}
+._图片 {
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
+.image2 {
+}
+.refs-icon-8flat {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+.refs-image-gesture {
+}
+.refs-icon-font-awesome {
+  font-family:'FontAwesome';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:#666666;
+  text-align:left;
+}
+.icon {
+}
+.list_box1 {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.shape2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.text_field1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.image3 {
+  font-size:13px;
+  color:#000000;
+}
+.paragraph2 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.shape3 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#000000;
+}
+.image4 {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.checkbox {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.shape4 {
+  font-size:16px;
+  color:#000000;
+}
+.new_style {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  text-align:center;
+}
+.title_2 {
+  font-family:'PingFangTC-Light', 'PingFang TC Light', 'PingFang TC';
+  font-weight:200;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._222 {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.refs-icon-brands {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+.app-h1 {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._222-o {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#A8DC47;
+}
+._222-d {
+  font-family:'PingFangTC-Regular', 'PingFang TC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
